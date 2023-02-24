@@ -1,0 +1,24 @@
+.content-panel {
+  margin: 1.5rem 0;
+  text-align: left; }
+  .content-panel--padded {
+    padding: 4rem 0; }
+  .content-panel a {
+    color: #3d3d3d;
+    -webkit-box-shadow: inset 0 -1px 0 black;
+            box-shadow: inset 0 -1px 0 black;
+    text-decoration: none; }
+  .content-panel img {
+    margin-bottom: 2rem;
+    max-width: 100%; }
+  .content-panel p {
+    margin-bottom: 2rem; }
+    .content-panel p:last-child {
+      margin-bottom: 0; }
+  .content-panel figure {
+    margin: 1em 0; }
+  .content-panel + hr {
+    margin-top: 0; }
+
+body {
+  background-color: purple !important; }
