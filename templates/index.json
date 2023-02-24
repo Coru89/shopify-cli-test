@@ -44,7 +44,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>This is Staging..updated from web. edited again<\/p>",
+            "heading": "<p>This is Staging..updated from vs code<\/p>",
             "heading_size": "h1"
           }
         },
